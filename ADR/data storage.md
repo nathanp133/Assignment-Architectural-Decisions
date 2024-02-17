@@ -12,7 +12,7 @@ Use a combination of local device storage (e.g., SQLite) and cloud-based storage
 
 # Alternatives Considered:
 
-    Onlyusing local device storage: Using only local device storage may limit data accessibility to a specific device and make it challenging to synchronize data across multiple devices.
+    Only using local device storage: Using only local device storage may limit data accessibility to a specific device and make it challenging to synchronize data across multiple devices.
     Only using cloud-based storage: Relying solely on cloud-based storage may introduce dependency on internet connectivity and may not provide offline data access.
 
 # Consequences:
